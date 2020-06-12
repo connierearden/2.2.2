@@ -15,6 +15,8 @@
           <element id="jpa-descriptors" facet="spring_mvc/jpa/JPA" />
         </element>
         <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.15" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.6.1" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.2.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.2.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.2.0.RELEASE" />

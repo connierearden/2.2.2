@@ -1,4 +1,3 @@
-/*
 package web.dao;
 
 import org.hibernate.SessionFactory;
@@ -26,4 +25,3 @@ public class UserDaoImp implements UserDao {
         return query.getResultList();
     }
 }
-*/

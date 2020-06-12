@@ -1,4 +1,3 @@
-/*
 package web.dao;
 
 
@@ -10,4 +9,3 @@ public interface UserDao {
     void add(Car car);
     List listCarsByCriteria();
 }
-*/

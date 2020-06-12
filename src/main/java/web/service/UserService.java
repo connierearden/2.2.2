@@ -1,4 +1,3 @@
-/*
 package web.service;
 
 import web.model.Car;
@@ -10,4 +9,3 @@ public interface UserService {
 
     List listCarsByCriteria();
 }
-*/
